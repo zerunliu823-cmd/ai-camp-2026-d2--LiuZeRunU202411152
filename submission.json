@@ -1,0 +1,17 @@
+{
+  "milestone": "day-02",
+  "team": "哈哈哈组",
+  "members": [
+    "刘泽润",
+    "吴升峰",
+    "程霖垚",
+    "韦佳瑜"
+  ],
+  "repository_url": "填写 GitHub 仓库 URL",
+  "run_command": "python search.py",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": false
+}
