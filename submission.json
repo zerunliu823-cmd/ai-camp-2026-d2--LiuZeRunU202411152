@@ -1,13 +1,13 @@
 {
-  "milestone": "day-02",
-  "team": "哈哈哈组",
+  "milestone": "D2",
+  "team": "Agent returns our August",
   "members": [
     "刘泽润",
     "吴升峰",
     "程霖垚",
     "韦佳瑜"
   ],
-  "repository_url": "填写 GitHub 仓库 URL",
+  "repository_url": "https://github.com/zerunliu823-cmd/ai-camp-2026-d2--LiuZeRunU202411152",
   "run_command": "python search.py",
   "test_command": "python -m unittest discover -s tests -v",
   "report": "report.md",
